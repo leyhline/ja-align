@@ -1,7 +1,8 @@
 {
   "name": "ja-align",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
+  "license": "Apache-2.0",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
