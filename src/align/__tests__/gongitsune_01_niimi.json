@@ -1,0 +1,6349 @@
+{
+  "monologues": [
+    {
+      "start": 0.81,
+      "end": 3.779888,
+      "terms": [
+        {
+          "confidence": 0.864019,
+          "start": 0.81,
+          "end": 1.08,
+          "text": "ごん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 1.08,
+          "end": 1.65,
+          "text": "ぎつね",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 2.61,
+          "end": 3.03,
+          "text": "新美",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 3.06,
+          "end": 3.779888,
+          "text": "南吉",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 5.1,
+      "end": 6.96,
+      "terms": [
+        {
+          "confidence": 0.998765,
+          "start": 5.1,
+          "end": 5.49,
+          "text": "こちら",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 5.49,
+          "end": 5.82,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.238256,
+          "start": 5.91,
+          "end": 6.21,
+          "text": "リベリ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.9483,
+          "start": 6.229144,
+          "end": 6.57,
+          "text": "ボックス",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992735,
+          "start": 6.57,
+          "end": 6.96,
+          "text": "です",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 7.89,
+      "end": 10.77,
+      "terms": [
+        {
+          "confidence": 0.548594,
+          "start": 7.89,
+          "end": 8.19,
+          "text": "リベリ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.878399,
+          "start": 8.190316,
+          "end": 8.49,
+          "text": "ボックス",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 8.49,
+          "end": 8.61,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 8.61,
+          "end": 8.91,
+          "text": "録音",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 8.91,
+          "end": 9.09,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.672703,
+          "start": 9.09,
+          "end": 9.6,
+          "text": "全て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.986963,
+          "start": 9.63,
+          "end": 10.08,
+          "text": "パブリック",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.986963,
+          "start": 10.08,
+          "end": 10.41,
+          "text": "ドメイン",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.979409,
+          "start": 10.41,
+          "end": 10.77,
+          "text": "です",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 11.97,
+      "end": 15.0,
+      "terms": [
+        {
+          "confidence": 1.0,
+          "start": 11.97,
+          "end": 12.48,
+          "text": "ボランティア",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 12.48,
+          "end": 12.57,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999887,
+          "start": 12.57,
+          "end": 12.72,
+          "text": "つい",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 12.72,
+          "end": 12.81,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 12.81,
+          "end": 13.228987,
+          "text": "など",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 13.32,
+          "end": 13.8,
+          "text": "詳しく",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 13.8,
+          "end": 13.89,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 13.89,
+          "end": 14.19,
+          "text": "サイト",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 14.19,
+          "end": 14.25,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.977852,
+          "start": 14.25,
+          "end": 14.49,
+          "text": "ご覧",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.800398,
+          "start": 14.49,
+          "end": 15.0,
+          "text": "ください",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 16.26,
+      "end": 19.89,
+      "terms": [
+        {
+          "confidence": 0.945582,
+          "start": 16.26,
+          "end": 17.04,
+          "text": "ＵＲＬ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.233389,
+          "start": 17.936691,
+          "end": 18.06,
+          "text": "ブルー",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.566827,
+          "start": 18.073015,
+          "end": 18.599844,
+          "text": "バックス",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.909124,
+          "start": 18.9,
+          "end": 19.41,
+          "text": "ドット",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.861981,
+          "start": 19.44,
+          "end": 19.89,
+          "text": "オーグ",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 21.45,
+      "end": 29.04,
+      "terms": [
+        {
+          "confidence": 0.8077,
+          "start": 21.45,
+          "end": 22.2,
+          "text": "１",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 23.16,
+          "end": 23.43,
+          "text": "これ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 23.43,
+          "end": 23.79,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999057,
+          "start": 23.85,
+          "end": 24.241373,
+          "text": "私",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.83291,
+          "start": 24.241373,
+          "end": 24.39,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 24.39,
+          "end": 24.75,
+          "text": "小さい",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.914794,
+          "start": 24.75,
+          "end": 24.96,
+          "text": "時",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 24.96,
+          "end": 25.23,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.995944,
+          "start": 25.8,
+          "end": 26.04,
+          "text": "村",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 26.040002,
+          "end": 26.34,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.963191,
+          "start": 26.37,
+          "end": 26.76,
+          "text": "茂平",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 26.788905,
+          "end": 26.88,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.92596,
+          "start": 26.88,
+          "end": 27.06,
+          "text": "いう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998195,
+          "start": 27.060009,
+          "end": 27.21,
+          "text": "お",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.665173,
+          "start": 27.21,
+          "end": 27.39,
+          "text": "じい",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 27.39,
+          "end": 27.57,
+          "text": "さん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 27.57,
+          "end": 27.87,
+          "text": "から",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 27.87,
+          "end": 28.08,
+          "text": "聞い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 28.08,
+          "end": 28.32,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999998,
+          "start": 28.35,
+          "end": 28.47,
+          "text": "お",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.931339,
+          "start": 28.47,
+          "end": 28.8,
+          "text": "話",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998418,
+          "start": 28.8,
+          "end": 29.04,
+          "text": "です",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 30.48,
+      "end": 39.93,
+      "terms": [
+        {
+          "confidence": 0.977404,
+          "start": 30.48,
+          "end": 30.9,
+          "text": "昔",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 30.9,
+          "end": 31.2,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.889898,
+          "start": 31.74,
+          "end": 32.1,
+          "text": "私",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.735702,
+          "start": 32.1,
+          "end": 32.28,
+          "text": "たち",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 32.28,
+          "end": 32.37,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998805,
+          "start": 32.37,
+          "end": 32.55,
+          "text": "村",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 32.55,
+          "end": 32.64,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.991572,
+          "start": 32.64,
+          "end": 32.97,
+          "text": "近く",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 32.97,
+          "end": 33.21,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.965157,
+          "start": 33.6,
+          "end": 34.05,
+          "text": "中山",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 34.05,
+          "end": 34.14,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.965099,
+          "start": 34.14,
+          "end": 34.26,
+          "text": "いう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.959646,
+          "start": 34.26,
+          "end": 34.56,
+          "text": "ところ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 34.56,
+          "end": 34.92,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 34.98,
+          "end": 35.49,
+          "text": "小さな",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994518,
+          "start": 35.49,
+          "end": 35.52,
+          "text": "お",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994767,
+          "start": 35.52,
+          "end": 35.73,
+          "text": "城",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 35.73,
+          "end": 35.82,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 35.82,
+          "end": 35.97,
+          "text": "あっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 36.0,
+          "end": 36.27,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.966683,
+          "start": 36.93,
+          "end": 37.38,
+          "text": "中山",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.816703,
+          "start": 37.380125,
+          "end": 37.59,
+          "text": "様",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 37.59,
+          "end": 37.71,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.893558,
+          "start": 37.71,
+          "end": 37.949985,
+          "text": "いう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992515,
+          "start": 37.98,
+          "end": 38.07,
+          "text": "お",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992814,
+          "start": 38.07,
+          "end": 38.25,
+          "text": "殿",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 38.25,
+          "end": 38.49,
+          "text": "様",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 38.49,
+          "end": 38.76,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 38.88,
+          "end": 39.12,
+          "text": "おら",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 39.12,
+          "end": 39.18,
+          "text": "れ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 39.21,
+          "end": 39.33,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 39.33,
+          "end": 39.51,
+          "text": "そう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 39.51,
+          "end": 39.93,
+          "text": "です",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 41.19,
+      "end": 47.4,
+      "terms": [
+        {
+          "confidence": 0.987724,
+          "start": 41.19,
+          "end": 41.79,
+          "text": "その",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.936171,
+          "start": 41.85,
+          "end": 42.36,
+          "text": "中山",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 42.36,
+          "end": 42.75,
+          "text": "から",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 43.08,
+          "end": 43.5,
+          "text": "少し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 43.5,
+          "end": 43.77,
+          "text": "離れ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 43.77,
+          "end": 43.86,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 43.86,
+          "end": 44.07,
+          "text": "山",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 44.07,
+          "end": 44.19,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 44.19,
+          "end": 44.4,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 44.4,
+          "end": 44.7,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.553682,
+          "start": 45.18,
+          "end": 45.42,
+          "text": "ごん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 45.42,
+          "end": 45.96,
+          "text": "ぎつね",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 46.11,
+          "end": 46.26,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.918982,
+          "start": 46.26,
+          "end": 46.44,
+          "text": "いう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.612419,
+          "start": 46.44,
+          "end": 46.74,
+          "text": "キツネ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992729,
+          "start": 46.74,
+          "end": 46.86,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.787362,
+          "start": 46.86,
+          "end": 46.92,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 46.920125,
+          "end": 47.16,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 47.16,
+          "end": 47.4,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 48.48,
+      "end": 55.29,
+      "terms": [
+        {
+          "confidence": 0.37426,
+          "start": 48.48,
+          "end": 48.75,
+          "text": "午後",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999458,
+          "start": 48.761803,
+          "end": 49.08,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999161,
+          "start": 49.23,
+          "end": 49.83,
+          "text": "ひとりぼっち",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 49.83,
+          "end": 49.95,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998856,
+          "start": 49.95,
+          "end": 50.34041,
+          "text": "子ぎつね",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.989958,
+          "start": 50.34041,
+          "end": 50.61,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.181212,
+          "start": 51.21,
+          "end": 51.529087,
+          "text": "平野",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.651017,
+          "start": 51.529087,
+          "end": 51.628411,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.97668,
+          "start": 51.628411,
+          "end": 51.929996,
+          "text": "いっぱい",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.996234,
+          "start": 51.93,
+          "end": 52.259993,
+          "text": "茂っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999846,
+          "start": 52.259993,
+          "end": 52.56,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 52.59,
+          "end": 52.83,
+          "text": "森",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 52.83,
+          "end": 52.92,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.954208,
+          "start": 52.92,
+          "end": 53.16,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 53.16,
+          "end": 53.46,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 53.79,
+          "end": 54.06,
+          "text": "穴",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 54.06,
+          "end": 54.15,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 54.15,
+          "end": 54.33,
+          "text": "掘っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 54.36,
+          "end": 54.48,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.957502,
+          "start": 54.48,
+          "end": 54.66,
+          "text": "住ん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 54.66,
+          "end": 54.78,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 54.78,
+          "end": 54.84,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 54.84,
+          "end": 55.08,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 55.08,
+          "end": 55.29,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 56.34,
+      "end": 62.25,
+      "terms": [
+        {
+          "confidence": 1.0,
+          "start": 56.34,
+          "end": 57.03,
+          "text": "そして",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999971,
+          "start": 57.48,
+          "end": 57.75,
+          "text": "夜",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 57.75,
+          "end": 57.87,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 57.87,
+          "end": 58.05,
+          "text": "も",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999963,
+          "start": 58.08,
+          "end": 58.41,
+          "text": "昼",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 58.41,
+          "end": 58.5,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 58.5,
+          "end": 58.8,
+          "text": "も",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.653148,
+          "start": 59.13,
+          "end": 59.52,
+          "text": "辺り",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999911,
+          "start": 59.52,
+          "end": 59.64,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.995376,
+          "start": 59.64,
+          "end": 59.85,
+          "text": "村",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.991672,
+          "start": 59.850092,
+          "end": 59.94,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992612,
+          "start": 59.94,
+          "end": 60.03,
+          "text": "出",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 60.03,
+          "end": 60.12,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.807414,
+          "start": 60.12,
+          "end": 60.24,
+          "text": "き",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 60.24,
+          "end": 60.51,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.753246,
+          "start": 60.93,
+          "end": 61.38,
+          "text": "いたずら",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 61.380004,
+          "end": 61.71,
+          "text": "ばかり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 61.71,
+          "end": 61.8,
+          "text": "し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 61.8,
+          "end": 62.01,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 62.01,
+          "end": 62.25,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 63.15,
+      "end": 75.93,
+      "terms": [
+        {
+          "confidence": 1.0,
+          "start": 63.15,
+          "end": 63.600923,
+          "text": "畑",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.846142,
+          "start": 63.600923,
+          "end": 63.66,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.969626,
+          "start": 63.66,
+          "end": 63.99,
+          "text": "入っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 64.02,
+          "end": 64.35,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.973897,
+          "start": 64.56,
+          "end": 64.885898,
+          "text": "芋",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.907282,
+          "start": 64.89,
+          "end": 65.1,
+          "text": "ほり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999968,
+          "start": 65.1,
+          "end": 65.43,
+          "text": "ちらし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 65.43,
+          "end": 65.76,
+          "text": "たり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999959,
+          "start": 66.39,
+          "end": 66.78,
+          "text": "菜種",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.629583,
+          "start": 66.78,
+          "end": 66.96,
+          "text": "から",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 66.96,
+          "end": 67.289993,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.701145,
+          "start": 67.380557,
+          "end": 67.65,
+          "text": "押し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994334,
+          "start": 67.65,
+          "end": 67.77,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.910016,
+          "start": 67.77,
+          "end": 67.95,
+          "text": "ある",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999741,
+          "start": 67.95,
+          "end": 68.069795,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.402443,
+          "start": 68.07,
+          "end": 68.22,
+          "text": "え",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.960612,
+          "start": 68.25,
+          "end": 68.43,
+          "text": "火",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 68.43,
+          "end": 68.52,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.561615,
+          "start": 68.52,
+          "end": 68.73,
+          "text": "つけ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 68.73,
+          "end": 69.09,
+          "text": "たり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 69.72,
+          "end": 70.14,
+          "text": "百姓",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 70.14,
+          "end": 70.29,
+          "text": "家",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 70.29,
+          "end": 70.59,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 70.74,
+          "end": 71.04,
+          "text": "裏手",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 71.04,
+          "end": 71.159993,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.72966,
+          "start": 71.16,
+          "end": 71.49,
+          "text": "吊るし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.99999,
+          "start": 71.49,
+          "end": 71.58,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999999,
+          "start": 71.58,
+          "end": 71.91,
+          "text": "ある",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.967525,
+          "start": 72.12,
+          "end": 72.69,
+          "text": "とんがらし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997125,
+          "start": 72.69,
+          "end": 72.78,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.683284,
+          "start": 72.780007,
+          "end": 73.32,
+          "text": "むしり取っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 73.35,
+          "end": 73.59,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.637789,
+          "start": 73.74,
+          "end": 74.01,
+          "text": "いっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 74.01,
+          "end": 74.52,
+          "text": "たり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.589601,
+          "start": 74.7,
+          "end": 75.09,
+          "text": "色んな",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.89972,
+          "start": 75.09,
+          "end": 75.3,
+          "text": "こと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 75.3,
+          "end": 75.36,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 75.36,
+          "end": 75.48,
+          "text": "し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 75.48,
+          "end": 75.69,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 75.69,
+          "end": 75.93,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 77.4,
+      "end": 79.17,
+      "terms": [
+        {
+          "confidence": 0.984415,
+          "start": 77.4,
+          "end": 77.88,
+          "text": "ある",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.988414,
+          "start": 78.15,
+          "end": 78.42,
+          "text": "秋",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 78.42,
+          "end": 78.54,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.956458,
+          "start": 78.54,
+          "end": 78.75,
+          "text": "こと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 78.75,
+          "end": 78.93,
+          "text": "でし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 78.93,
+          "end": 79.17,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 80.16,
+      "end": 87.12,
+      "terms": [
+        {
+          "confidence": 0.990448,
+          "start": 80.16,
+          "end": 80.52,
+          "text": "二三",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999924,
+          "start": 80.52,
+          "end": 80.85,
+          "text": "日",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.967049,
+          "start": 80.85,
+          "end": 81.113467,
+          "text": "雨",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.772951,
+          "start": 81.119363,
+          "end": 81.27,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 81.27,
+          "end": 81.48,
+          "text": "降り",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 81.48,
+          "end": 81.78,
+          "text": "続い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997855,
+          "start": 81.78,
+          "end": 81.93,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 81.93,
+          "end": 82.14,
+          "text": "その",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.91883,
+          "start": 82.14,
+          "end": 82.56,
+          "text": "間",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.567615,
+          "start": 83.01,
+          "end": 83.28,
+          "text": "権",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 83.280923,
+          "end": 83.58,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.971159,
+          "start": 83.73,
+          "end": 84.177136,
+          "text": "書店",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.972346,
+          "start": 84.179077,
+          "end": 84.33,
+          "text": "も",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.97733,
+          "start": 84.36,
+          "end": 84.42,
+          "text": "出",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 84.42,
+          "end": 84.63,
+          "text": "られ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 84.63,
+          "end": 84.84,
+          "text": "なく",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 84.84,
+          "end": 85.11,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998284,
+          "start": 85.47,
+          "end": 85.71,
+          "text": "穴",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 85.71,
+          "end": 85.8,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 85.8,
+          "end": 86.01,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 86.01,
+          "end": 86.16,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 86.16,
+          "end": 86.52,
+          "text": "しゃがん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 86.52,
+          "end": 86.610044,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994689,
+          "start": 86.610044,
+          "end": 86.67,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 86.670059,
+          "end": 86.91,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 86.91,
+          "end": 87.12,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 88.95,
+      "end": 92.52,
+      "terms": [
+        {
+          "confidence": 1.0,
+          "start": 88.95,
+          "end": 89.22,
+          "text": "雨",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 89.22,
+          "end": 89.34,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 89.34,
+          "end": 89.61,
+          "text": "上がる",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 89.61,
+          "end": 90.03,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.532883,
+          "start": 90.09,
+          "end": 90.359143,
+          "text": "言",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 90.359143,
+          "end": 90.69,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.491474,
+          "start": 90.72,
+          "end": 91.05,
+          "text": "ほっと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 91.05,
+          "end": 91.17,
+          "text": "し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 91.17,
+          "end": 91.35,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.946354,
+          "start": 91.38,
+          "end": 91.59,
+          "text": "穴",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 91.59,
+          "end": 91.8,
+          "text": "から",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.572079,
+          "start": 91.8,
+          "end": 92.07,
+          "text": "這い出",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 92.07,
+          "end": 92.31,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 92.31,
+          "end": 92.52,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 93.75,
+      "end": 99.12,
+      "terms": [
+        {
+          "confidence": 0.992759,
+          "start": 93.75,
+          "end": 94.08,
+          "text": "空",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 94.08,
+          "end": 94.44,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 94.47,
+          "end": 94.8,
+          "text": "カラッ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 94.8,
+          "end": 94.92,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 94.92,
+          "end": 95.1,
+          "text": "晴れ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 95.13,
+          "end": 95.22,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999881,
+          "start": 95.22,
+          "end": 95.31,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 95.31,
+          "end": 95.58,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.546331,
+          "start": 96.27,
+          "end": 96.598337,
+          "text": "モズ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999704,
+          "start": 96.598337,
+          "end": 96.69,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.99873,
+          "start": 96.69,
+          "end": 96.9,
+          "text": "声",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 96.900037,
+          "end": 97.2,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999408,
+          "start": 97.59,
+          "end": 98.13,
+          "text": "キンキン",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999981,
+          "start": 98.13,
+          "end": 98.49,
+          "text": "響い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 98.52,
+          "end": 98.58,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 98.58,
+          "end": 98.64,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 98.64,
+          "end": 98.88,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 98.88,
+          "end": 99.12,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 100.86,
+      "end": 104.04,
+      "terms": [
+        {
+          "confidence": 0.9131,
+          "start": 100.86,
+          "end": 101.13,
+          "text": "ごん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999998,
+          "start": 101.130374,
+          "end": 101.49,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.987544,
+          "start": 101.76,
+          "end": 102.06,
+          "text": "村",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.987535,
+          "start": 102.06,
+          "end": 102.181106,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.942657,
+          "start": 102.181106,
+          "end": 102.42,
+          "text": "小川",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 102.420015,
+          "end": 102.598704,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.880606,
+          "start": 102.63,
+          "end": 102.869963,
+          "text": "堤",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 102.869963,
+          "end": 103.23,
+          "text": "まで",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.962532,
+          "start": 103.26,
+          "end": 103.38,
+          "text": "出",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 103.38,
+          "end": 103.47,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.972269,
+          "start": 103.47,
+          "end": 103.56,
+          "text": "き",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 103.56,
+          "end": 103.77,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 103.77,
+          "end": 104.04,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 105.24,
+      "end": 109.47,
+      "terms": [
+        {
+          "confidence": 0.457167,
+          "start": 105.24,
+          "end": 105.63,
+          "text": "あたり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 105.63,
+          "end": 105.9,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.548852,
+          "start": 105.93,
+          "end": 106.35,
+          "text": "組織",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 106.35,
+          "end": 106.44,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.899175,
+          "start": 106.44,
+          "end": 106.56,
+          "text": "方",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 106.56,
+          "end": 106.65,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 106.65,
+          "end": 106.92,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 107.28,
+          "end": 107.76,
+          "text": "まだ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 107.79,
+          "end": 107.97,
+          "text": "雨",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 107.97,
+          "end": 108.06,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.589346,
+          "start": 108.06,
+          "end": 108.39,
+          "text": "しずく",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.996774,
+          "start": 108.39,
+          "end": 108.57,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 108.57,
+          "end": 108.9,
+          "text": "光っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 108.9,
+          "end": 108.96,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 108.96,
+          "end": 109.02,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 109.02,
+          "end": 109.23,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 109.23,
+          "end": 109.47,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 110.82,
+      "end": 116.76,
+      "terms": [
+        {
+          "confidence": 0.420615,
+          "start": 110.82,
+          "end": 111.119875,
+          "text": "皮",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 111.119875,
+          "end": 111.39,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.996111,
+          "start": 111.69,
+          "end": 111.96,
+          "text": "いつ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 111.96,
+          "end": 112.053706,
+          "text": "も",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.738725,
+          "start": 112.053706,
+          "end": 112.138711,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998949,
+          "start": 112.138711,
+          "end": 112.32,
+          "text": "水",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 112.320007,
+          "end": 112.44,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 112.44,
+          "end": 112.71,
+          "text": "少ない",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 112.71,
+          "end": 112.8,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.991444,
+          "start": 112.8,
+          "end": 113.01,
+          "text": "です",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 113.01,
+          "end": 113.28,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.995275,
+          "start": 113.91,
+          "end": 114.12011,
+          "text": "三",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.878389,
+          "start": 114.12011,
+          "end": 114.239919,
+          "text": "日",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.773895,
+          "start": 114.240051,
+          "end": 114.358638,
+          "text": "も",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992967,
+          "start": 114.358638,
+          "end": 114.479714,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999214,
+          "start": 114.479714,
+          "end": 114.63,
+          "text": "雨",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 114.63,
+          "end": 114.93,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.944596,
+          "start": 115.17,
+          "end": 115.41,
+          "text": "水",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 115.4103,
+          "end": 115.65,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.980892,
+          "start": 115.68,
+          "end": 115.95,
+          "text": "どっと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.867692,
+          "start": 115.95,
+          "end": 116.16,
+          "text": "増し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 116.16,
+          "end": 116.25,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998676,
+          "start": 116.25,
+          "end": 116.28,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 116.280037,
+          "end": 116.49,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 116.49,
+          "end": 116.76,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 118.17,
+      "end": 126.84,
+      "terms": [
+        {
+          "confidence": 0.96665,
+          "start": 118.17,
+          "end": 118.44,
+          "text": "ただ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.560883,
+          "start": 118.44,
+          "end": 118.557598,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.640795,
+          "start": 118.557598,
+          "end": 118.74,
+          "text": "時",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 118.74,
+          "end": 119.07,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 119.1,
+          "end": 119.37,
+          "text": "水",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 119.37,
+          "end": 119.46,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.782131,
+          "start": 119.46,
+          "end": 119.7,
+          "text": "浸かる",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.904381,
+          "start": 119.7,
+          "end": 119.91,
+          "text": "こと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 119.91,
+          "end": 120.0,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.915117,
+          "start": 120.0,
+          "end": 120.36,
+          "text": "ない",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.564427,
+          "start": 120.51,
+          "end": 120.96,
+          "text": "川縁",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 120.96,
+          "end": 121.08,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.652955,
+          "start": 121.08,
+          "end": 121.41,
+          "text": "ススキ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994651,
+          "start": 121.41,
+          "end": 121.68,
+          "text": "や",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.674693,
+          "start": 121.89,
+          "end": 122.19,
+          "text": "萩",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999029,
+          "start": 122.19,
+          "end": 122.28,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.536712,
+          "start": 122.28,
+          "end": 122.49,
+          "text": "株",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 122.492893,
+          "end": 122.79,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 123.3,
+          "end": 123.75,
+          "text": "黄色く",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 123.75,
+          "end": 124.08,
+          "text": "濁っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 124.08,
+          "end": 124.2,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 124.2,
+          "end": 124.41,
+          "text": "水",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997865,
+          "start": 124.41,
+          "end": 124.59,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 124.62,
+          "end": 125.13,
+          "text": "横倒し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 125.13,
+          "end": 125.19,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 125.19,
+          "end": 125.4,
+          "text": "なっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 125.43,
+          "end": 125.76,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.862986,
+          "start": 125.91,
+          "end": 126.18,
+          "text": "揉ま",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 126.18,
+          "end": 126.27,
+          "text": "れ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 126.27,
+          "end": 126.36,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 126.36,
+          "end": 126.45,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 126.48,
+          "end": 126.84,
+          "text": "ます",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 128.04,
+      "end": 132.0,
+      "terms": [
+        {
+          "confidence": 0.742621,
+          "start": 128.04,
+          "end": 128.31,
+          "text": "ごん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999684,
+          "start": 128.312915,
+          "end": 128.67,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.740464,
+          "start": 128.82,
+          "end": 129.24,
+          "text": "川下",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 129.240234,
+          "end": 129.36,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.95714,
+          "start": 129.36,
+          "end": 129.54,
+          "text": "方",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.996158,
+          "start": 129.54,
+          "end": 129.63,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 129.63,
+          "end": 129.96,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 130.26,
+          "end": 130.71,
+          "text": "ぬかるみ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 130.71,
+          "end": 130.95,
+          "text": "道",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 130.95,
+          "end": 131.07,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 131.07,
+          "end": 131.31,
+          "text": "歩い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 131.31,
+          "end": 131.4,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.59962,
+          "start": 131.4,
+          "end": 131.55,
+          "text": "いき",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 131.55,
+          "end": 131.76,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 131.76,
+          "end": 132.0,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 133.71,
+      "end": 137.4,
+      "terms": [
+        {
+          "confidence": 1.0,
+          "start": 133.71,
+          "end": 133.98,
+          "text": "ふと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.971726,
+          "start": 133.98,
+          "end": 134.19,
+          "text": "見る",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 134.19,
+          "end": 134.55,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.702072,
+          "start": 134.85,
+          "end": 135.12,
+          "text": "川",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 135.120029,
+          "end": 135.21,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.995557,
+          "start": 135.21,
+          "end": 135.42,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 135.42,
+          "end": 135.51,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994556,
+          "start": 135.51,
+          "end": 135.66,
+          "text": "人",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 135.66,
+          "end": 135.75,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.755536,
+          "start": 135.75,
+          "end": 135.84,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 135.84,
+          "end": 136.17,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.978169,
+          "start": 136.29,
+          "end": 136.56,
+          "text": "何",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.993236,
+          "start": 136.56,
+          "end": 136.68,
+          "text": "か",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 136.680205,
+          "end": 136.86,
+          "text": "やっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 136.86,
+          "end": 136.95,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 136.95,
+          "end": 137.01,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 137.01,
+          "end": 137.4,
+          "text": "ます",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 138.39,
+      "end": 145.2,
+      "terms": [
+        {
+          "confidence": 0.254202,
+          "start": 138.39,
+          "end": 138.66,
+          "text": "ゴン",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999122,
+          "start": 138.667515,
+          "end": 138.99,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.968585,
+          "start": 139.08,
+          "end": 139.5,
+          "text": "見つから",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 139.5,
+          "end": 139.68,
+          "text": "ない",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.986907,
+          "start": 139.68,
+          "end": 139.83,
+          "text": "よう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 139.83,
+          "end": 140.13,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.738355,
+          "start": 140.34,
+          "end": 141.0,
+          "text": "相当",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.529623,
+          "start": 141.0,
+          "end": 141.24,
+          "text": "臭う",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.995259,
+          "start": 141.25103,
+          "end": 141.33,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 141.33,
+          "end": 141.6,
+          "text": "深い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.591967,
+          "start": 141.6,
+          "end": 141.87,
+          "text": "ところ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.98196,
+          "start": 141.87,
+          "end": 141.99,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.927664,
+          "start": 141.99,
+          "end": 142.230645,
+          "text": "歩き",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.887261,
+          "start": 142.230645,
+          "end": 142.41,
+          "text": "よっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.953812,
+          "start": 142.44,
+          "end": 142.74,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994026,
+          "start": 143.13,
+          "end": 143.43,
+          "text": "そこ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 143.43,
+          "end": 143.85,
+          "text": "から",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.755086,
+          "start": 143.88,
+          "end": 144.239722,
+          "text": "じっと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.884932,
+          "start": 144.268477,
+          "end": 144.51,
+          "text": "覗い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 144.54,
+          "end": 144.6,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.959643,
+          "start": 144.6,
+          "end": 144.75,
+          "text": "み",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 144.75,
+          "end": 144.96,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 144.96,
+          "end": 145.2,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 145.92,
+      "end": 148.8,
+      "terms": [
+        {
+          "confidence": 0.769264,
+          "start": 145.92,
+          "end": 146.31,
+          "text": "いい",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.824327,
+          "start": 146.52,
+          "end": 146.94,
+          "text": "表情",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.976239,
+          "start": 146.942988,
+          "end": 147.06,
+          "text": "だ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 147.06,
+          "end": 147.36,
+          "text": "な",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999685,
+          "start": 147.63,
+          "end": 147.78,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.784232,
+          "start": 147.81,
+          "end": 147.99,
+          "text": "今",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.993152,
+          "start": 147.992402,
+          "end": 148.14,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.99446,
+          "start": 148.14,
+          "end": 148.38,
+          "text": "思い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 148.38,
+          "end": 148.59,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 148.59,
+          "end": 148.8,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 149.85,
+      "end": 159.66,
+      "terms": [
+        {
+          "confidence": 0.844655,
+          "start": 149.85,
+          "end": 150.27,
+          "text": "教授",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 150.270088,
+          "end": 150.57,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.702383,
+          "start": 150.84,
+          "end": 151.26,
+          "text": "ボロボロ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 151.26,
+          "end": 151.409707,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999935,
+          "start": 151.410146,
+          "end": 151.71,
+          "text": "黒い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999679,
+          "start": 151.71,
+          "end": 152.04,
+          "text": "着物",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999998,
+          "start": 152.04,
+          "end": 152.1,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999893,
+          "start": 152.1,
+          "end": 152.61,
+          "text": "捲し上げ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 152.61,
+          "end": 152.94,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.966534,
+          "start": 153.42,
+          "end": 153.72,
+          "text": "腰",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998685,
+          "start": 153.72,
+          "end": 153.81,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.9757,
+          "start": 153.81,
+          "end": 154.08,
+          "text": "ところ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 154.08,
+          "end": 154.47,
+          "text": "まで",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 154.5,
+          "end": 154.77,
+          "text": "水",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 154.77,
+          "end": 154.86,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.99386,
+          "start": 154.86,
+          "end": 155.1,
+          "text": "浸り",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 155.1,
+          "end": 155.55,
+          "text": "ながら",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 155.97,
+          "end": 156.42,
+          "text": "魚",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 156.42,
+          "end": 156.48,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.720247,
+          "start": 156.48,
+          "end": 156.84,
+          "text": "捕る",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.577312,
+          "start": 157.11,
+          "end": 157.59,
+          "text": "張り切り",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 157.59,
+          "end": 157.68,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.932564,
+          "start": 157.68,
+          "end": 158.1,
+          "text": "いう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.692354,
+          "start": 158.19,
+          "end": 158.52,
+          "text": "網",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 158.52,
+          "end": 158.61,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 158.61,
+          "end": 159.03,
+          "text": "ゆすぶっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 159.03,
+          "end": 159.12,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 159.12,
+          "end": 159.18,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 159.18,
+          "end": 159.42,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 159.42,
+          "end": 159.66,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 160.89,
+      "end": 167.46,
+      "terms": [
+        {
+          "confidence": 0.346281,
+          "start": 160.89,
+          "end": 161.37,
+          "text": "鉢巻",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 161.37,
+          "end": 161.46,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999935,
+          "start": 161.46,
+          "end": 161.58,
+          "text": "し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 161.58,
+          "end": 161.79,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.983624,
+          "start": 161.82,
+          "end": 162.000044,
+          "text": "顔",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997662,
+          "start": 162.000044,
+          "end": 162.089985,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.714801,
+          "start": 162.089985,
+          "end": 162.63,
+          "text": "横丁",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 162.633384,
+          "end": 162.96,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.796805,
+          "start": 163.35,
+          "end": 163.74,
+          "text": "丸い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 163.74,
+          "end": 163.98,
+          "text": "萩",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 163.98,
+          "end": 164.07,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999989,
+          "start": 164.07,
+          "end": 164.309443,
+          "text": "花",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.534257,
+          "start": 164.31,
+          "end": 164.49,
+          "text": "一",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.980638,
+          "start": 164.49,
+          "end": 164.79,
+          "text": "枚",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.995347,
+          "start": 165.24,
+          "end": 165.72,
+          "text": "大きな",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.749127,
+          "start": 165.72,
+          "end": 166.02,
+          "text": "ホクロ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 166.02,
+          "end": 166.29,
+          "text": "みたい",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 166.29,
+          "end": 166.38,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.573413,
+          "start": 166.38,
+          "end": 166.86,
+          "text": "へばり付い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 166.86,
+          "end": 166.95,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 166.95,
+          "end": 167.01,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 167.01,
+          "end": 167.22,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 167.22,
+          "end": 167.46,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 169.23,
+      "end": 176.4,
+      "terms": [
+        {
+          "confidence": 0.857618,
+          "start": 169.23,
+          "end": 169.71,
+          "text": "しばらく",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 169.71,
+          "end": 169.89,
+          "text": "する",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 169.89,
+          "end": 170.07,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.883137,
+          "start": 170.07,
+          "end": 170.46,
+          "text": "表示",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 170.463179,
+          "end": 170.73,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.959935,
+          "start": 171.12,
+          "end": 171.54,
+          "text": "はりきり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.700741,
+          "start": 171.54,
+          "end": 171.72,
+          "text": "網",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999512,
+          "start": 171.720015,
+          "end": 171.839883,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997569,
+          "start": 171.840117,
+          "end": 172.14,
+          "text": "一番",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.993133,
+          "start": 172.14,
+          "end": 172.41,
+          "text": "後ろ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 172.41,
+          "end": 172.68,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998125,
+          "start": 173.04,
+          "end": 173.34,
+          "text": "袋",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 173.34,
+          "end": 173.46,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 173.46,
+          "end": 173.58,
+          "text": "よう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 173.58,
+          "end": 173.7,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 173.7,
+          "end": 173.94,
+          "text": "なっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 173.94,
+          "end": 174.06,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.949289,
+          "start": 174.06,
+          "end": 174.360073,
+          "text": "ところ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.977126,
+          "start": 174.360073,
+          "end": 174.599736,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 174.81,
+          "end": 175.08,
+          "text": "水",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 175.08,
+          "end": 175.17,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.976792,
+          "start": 175.17,
+          "end": 175.38,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 175.38,
+          "end": 175.589971,
+          "text": "から",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.99021,
+          "start": 175.59,
+          "end": 175.95,
+          "text": "持ち上げ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 175.95,
+          "end": 176.16,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 176.16,
+          "end": 176.4,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 177.51,
+      "end": 188.52,
+      "terms": [
+        {
+          "confidence": 0.966709,
+          "start": 177.51,
+          "end": 177.81,
+          "text": "その",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.938498,
+          "start": 177.81,
+          "end": 178.02,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 178.02,
+          "end": 178.11,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 178.11,
+          "end": 178.41,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.924302,
+          "start": 178.77,
+          "end": 179.13,
+          "text": "芝",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999414,
+          "start": 179.130015,
+          "end": 179.25,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.963963,
+          "start": 179.25,
+          "end": 179.4,
+          "text": "根",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 179.4,
+          "end": 179.67,
+          "text": "や",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999999,
+          "start": 179.85,
+          "end": 180.12,
+          "text": "草",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999999,
+          "start": 180.12,
+          "end": 180.24,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999958,
+          "start": 180.24,
+          "end": 180.36,
+          "text": "葉",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999966,
+          "start": 180.36,
+          "end": 180.63,
+          "text": "や",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999989,
+          "start": 180.96,
+          "end": 181.38,
+          "text": "くさっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 181.38,
+          "end": 181.56,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999835,
+          "start": 181.56,
+          "end": 181.86,
+          "text": "木ぎれ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 181.86,
+          "end": 182.07,
+          "text": "など",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 182.07,
+          "end": 182.34,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.97047,
+          "start": 182.7,
+          "end": 183.239956,
+          "text": "ごちゃごちゃ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999499,
+          "start": 183.240059,
+          "end": 183.54,
+          "text": "入っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 183.54,
+          "end": 183.6,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 183.6,
+          "end": 183.66,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 183.66,
+          "end": 183.87,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 183.87,
+          "end": 183.96,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994916,
+          "start": 183.96,
+          "end": 184.23,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 184.77,
+          "end": 184.92,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 184.92,
+          "end": 185.22,
+          "text": "も",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.571871,
+          "start": 185.31,
+          "end": 186.09,
+          "text": "ところどころ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998976,
+          "start": 186.33,
+          "end": 186.66,
+          "text": "白い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.983501,
+          "start": 186.66,
+          "end": 186.87,
+          "text": "もの",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.987245,
+          "start": 186.87,
+          "end": 187.17,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.738194,
+          "start": 187.23,
+          "end": 187.71,
+          "text": "キラキラ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 187.71,
+          "end": 188.01,
+          "text": "光っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 188.01,
+          "end": 188.07,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 188.07,
+          "end": 188.16,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 188.16,
+          "end": 188.52,
+          "text": "ます",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 189.33,
+      "end": 193.92,
+      "terms": [
+        {
+          "confidence": 1.0,
+          "start": 189.33,
+          "end": 189.6,
+          "text": "それ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 189.6,
+          "end": 189.9,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.996193,
+          "start": 190.2,
+          "end": 190.74,
+          "text": "太い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.781184,
+          "start": 190.77,
+          "end": 191.13,
+          "text": "うなぎ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999784,
+          "start": 191.13,
+          "end": 191.25,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.898834,
+          "start": 191.25,
+          "end": 191.46,
+          "text": "腹",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.951701,
+          "start": 191.46,
+          "end": 191.73,
+          "text": "や",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 192.09,
+          "end": 192.629839,
+          "text": "大きな",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.343078,
+          "start": 192.63,
+          "end": 192.749941,
+          "text": "樹",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.715631,
+          "start": 192.749941,
+          "end": 193.260469,
+          "text": "篠原",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.607179,
+          "start": 193.260469,
+          "end": 193.41,
+          "text": "家",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.751416,
+          "start": 193.44,
+          "end": 193.65,
+          "text": "でし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 193.65,
+          "end": 193.92,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 194.82,
+      "end": 200.4,
+      "terms": [
+        {
+          "confidence": 0.704232,
+          "start": 194.82,
+          "end": 195.33,
+          "text": "表示",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999808,
+          "start": 195.330103,
+          "end": 195.6,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.206642,
+          "start": 195.96,
+          "end": 196.23,
+          "text": "比丘",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 196.23,
+          "end": 196.35,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.893697,
+          "start": 196.35,
+          "end": 196.56,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.768138,
+          "start": 196.56,
+          "end": 196.8,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.989721,
+          "start": 197.1,
+          "end": 197.46,
+          "text": "その",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.501553,
+          "start": 197.49,
+          "end": 197.91,
+          "text": "鰻屋",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.605477,
+          "start": 197.91,
+          "end": 198.21,
+          "text": "きす",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.996514,
+          "start": 198.21,
+          "end": 198.39,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.706068,
+          "start": 198.72,
+          "end": 198.99,
+          "text": "ごみ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 198.99,
+          "end": 199.08,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 199.08,
+          "end": 199.32,
+          "text": "一緒",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 199.32,
+          "end": 199.53,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.630901,
+          "start": 199.53,
+          "end": 199.95,
+          "text": "ぶち込み",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 199.95,
+          "end": 200.16,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 200.16,
+          "end": 200.4,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 201.3,
+      "end": 205.35,
+      "terms": [
+        {
+          "confidence": 1.0,
+          "start": 201.3,
+          "end": 201.69,
+          "text": "そして",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 201.69,
+          "end": 202.17,
+          "text": "また",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.678098,
+          "start": 202.44,
+          "end": 202.77,
+          "text": "袋",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.678098,
+          "start": 202.77,
+          "end": 202.86,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999965,
+          "start": 202.86,
+          "end": 203.04,
+          "text": "口",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 203.04,
+          "end": 203.13,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 203.13,
+          "end": 203.43,
+          "text": "縛っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 203.46,
+          "end": 203.76,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 203.97,
+          "end": 204.27,
+          "text": "水",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 204.27,
+          "end": 204.36,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 204.36,
+          "end": 204.57,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 204.57,
+          "end": 204.69,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.976295,
+          "start": 204.69,
+          "end": 204.87,
+          "text": "入れ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 204.87,
+          "end": 205.08,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 205.08,
+          "end": 205.35,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 206.82,
+      "end": 216.03,
+      "terms": [
+        {
+          "confidence": 0.596292,
+          "start": 206.82,
+          "end": 207.27,
+          "text": "教授",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 207.27,
+          "end": 207.45,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 207.45,
+          "end": 207.72,
+          "text": "それ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 207.72,
+          "end": 208.08,
+          "text": "から",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.310649,
+          "start": 208.26,
+          "end": 208.56,
+          "text": "ビク",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997889,
+          "start": 208.560088,
+          "end": 208.65,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.780409,
+          "start": 208.65,
+          "end": 208.86,
+          "text": "持っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 208.89,
+          "end": 209.19,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.990274,
+          "start": 209.4,
+          "end": 209.7,
+          "text": "川",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999873,
+          "start": 209.7,
+          "end": 209.88,
+          "text": "から",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.843453,
+          "start": 209.88,
+          "end": 210.33,
+          "text": "上がり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.309715,
+          "start": 210.84,
+          "end": 211.14,
+          "text": "ビク",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.817507,
+          "start": 211.14,
+          "end": 211.35,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992789,
+          "start": 211.38,
+          "end": 211.65,
+          "text": "土手",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997482,
+          "start": 211.65,
+          "end": 211.77,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.896889,
+          "start": 211.770015,
+          "end": 211.92,
+          "text": "置い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 211.92,
+          "end": 212.13,
+          "text": "とい",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 212.16,
+          "end": 212.46,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.883005,
+          "start": 212.79,
+          "end": 213.09,
+          "text": "何",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999487,
+          "start": 213.09,
+          "end": 213.209985,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.972309,
+          "start": 213.21,
+          "end": 213.54,
+          "text": "探し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.887657,
+          "start": 213.54,
+          "end": 213.657319,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.549864,
+          "start": 213.661274,
+          "end": 213.99,
+          "text": "か",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.612082,
+          "start": 214.23,
+          "end": 214.47,
+          "text": "母",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.623944,
+          "start": 214.47,
+          "end": 214.68,
+          "text": "上",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 214.68,
+          "end": 214.77,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.983777,
+          "start": 214.77,
+          "end": 214.98,
+          "text": "方",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997345,
+          "start": 214.98,
+          "end": 215.1,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.61198,
+          "start": 215.1,
+          "end": 215.34,
+          "text": "駆け",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 215.34,
+          "end": 215.4,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.551893,
+          "start": 215.4,
+          "end": 215.58,
+          "text": "いき",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 215.58,
+          "end": 215.79,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 215.79,
+          "end": 216.03,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 217.65,
+      "end": 223.89,
+      "terms": [
+        {
+          "confidence": 0.731206,
+          "start": 217.65,
+          "end": 218.099766,
+          "text": "教授",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992806,
+          "start": 218.099766,
+          "end": 218.22,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.858813,
+          "start": 218.22,
+          "end": 218.28,
+          "text": "い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 218.28,
+          "end": 218.46,
+          "text": "なく",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 218.46,
+          "end": 218.64,
+          "text": "なる",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 218.64,
+          "end": 218.94,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.546494,
+          "start": 219.24,
+          "end": 219.51,
+          "text": "言",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 219.51,
+          "end": 219.78,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.478688,
+          "start": 220.11,
+          "end": 220.479771,
+          "text": "ペット",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.253892,
+          "start": 220.479771,
+          "end": 220.65,
+          "text": "屋",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 220.776431,
+          "end": 220.89,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.990208,
+          "start": 220.89,
+          "end": 221.07,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 221.07,
+          "end": 221.25,
+          "text": "から",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 221.25,
+          "end": 221.64,
+          "text": "飛び出し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 221.64,
+          "end": 221.91,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.27532,
+          "start": 222.21,
+          "end": 222.479927,
+          "text": "ビク",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 222.479927,
+          "end": 222.57,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.709039,
+          "start": 222.57,
+          "end": 222.78,
+          "text": "側",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998762,
+          "start": 222.781099,
+          "end": 222.9,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.601825,
+          "start": 222.9,
+          "end": 223.438579,
+          "text": "駆け付け",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 223.440454,
+          "end": 223.68,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 223.68,
+          "end": 223.89,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 225.0,
+      "end": 227.22,
+      "terms": [
+        {
+          "confidence": 0.993659,
+          "start": 225.0,
+          "end": 225.6,
+          "text": "ちょいと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.602625,
+          "start": 225.69,
+          "end": 226.11,
+          "text": "悪戯",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.580074,
+          "start": 226.110132,
+          "end": 226.257891,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998502,
+          "start": 226.257891,
+          "end": 226.35,
+          "text": "し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997859,
+          "start": 226.35,
+          "end": 226.5,
+          "text": "たく",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 226.5,
+          "end": 226.65,
+          "text": "なっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 226.65,
+          "end": 226.74,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 226.74,
+          "end": 226.86,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.880601,
+          "start": 226.86,
+          "end": 227.22,
+          "text": "です",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 228.27,
+      "end": 237.54,
+      "terms": [
+        {
+          "confidence": 0.909305,
+          "start": 228.27,
+          "end": 228.51,
+          "text": "ごん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.981987,
+          "start": 228.510234,
+          "end": 228.87,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.914483,
+          "start": 228.96,
+          "end": 229.23,
+          "text": "びく",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 229.23,
+          "end": 229.35,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.990766,
+          "start": 229.35,
+          "end": 229.56,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 229.56,
+          "end": 229.8,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999771,
+          "start": 229.83,
+          "end": 230.19,
+          "text": "魚",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999995,
+          "start": 230.19,
+          "end": 230.28,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.993062,
+          "start": 230.28,
+          "end": 230.76,
+          "text": "つかみ出し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.993279,
+          "start": 230.76,
+          "end": 230.85,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.99979,
+          "start": 230.85,
+          "end": 231.12,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.968592,
+          "start": 231.48,
+          "end": 231.9,
+          "text": "はりきり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.974413,
+          "start": 231.9,
+          "end": 232.05,
+          "text": "網",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.691166,
+          "start": 232.05,
+          "end": 232.169927,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.965723,
+          "start": 232.200044,
+          "end": 232.53,
+          "text": "かかっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 232.53,
+          "end": 232.59,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 232.59,
+          "end": 232.74,
+          "text": "いる",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.810525,
+          "start": 232.74,
+          "end": 233.01,
+          "text": "ところ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998873,
+          "start": 233.01,
+          "end": 233.37,
+          "text": "より",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.984909,
+          "start": 233.58,
+          "end": 234.0,
+          "text": "しもて",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.993218,
+          "start": 234.0,
+          "end": 234.27,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.334067,
+          "start": 234.3,
+          "end": 234.51,
+          "text": "川",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.982524,
+          "start": 234.510571,
+          "end": 234.6,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.954147,
+          "start": 234.600557,
+          "end": 234.84,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 234.84,
+          "end": 234.96,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.399371,
+          "start": 234.96,
+          "end": 235.35,
+          "text": "目掛け",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 235.35,
+          "end": 235.59,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.748589,
+          "start": 235.92,
+          "end": 236.52,
+          "text": "ポンポン",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.680121,
+          "start": 236.64,
+          "end": 237.119971,
+          "text": "投げ込み",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 237.12,
+          "end": 237.33,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 237.33,
+          "end": 237.54,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 238.89,
+      "end": 244.71,
+      "terms": [
+        {
+          "confidence": 0.973409,
+          "start": 238.89,
+          "end": 239.16,
+          "text": "どの",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 239.16,
+          "end": 239.46,
+          "text": "魚",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 239.46,
+          "end": 239.73,
+          "text": "も",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.651031,
+          "start": 239.97,
+          "end": 240.45,
+          "text": "ドボン",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.863422,
+          "start": 240.72,
+          "end": 241.05,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 241.075913,
+          "end": 241.32,
+          "text": "音",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 241.32,
+          "end": 241.41,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.81213,
+          "start": 241.41,
+          "end": 241.62,
+          "text": "立て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 241.62,
+          "end": 242.07,
+          "text": "ながら",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 242.4,
+          "end": 242.76,
+          "text": "濁っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 242.76,
+          "end": 242.88,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 242.88,
+          "end": 243.06,
+          "text": "水",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 243.06,
+          "end": 243.15,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 243.15,
+          "end": 243.36,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.764515,
+          "start": 243.36,
+          "end": 243.42,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.640413,
+          "start": 243.430986,
+          "end": 244.23,
+          "text": "潜り込み",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 244.23,
+          "end": 244.47,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 244.47,
+          "end": 244.71,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 246.06,
+      "end": 254.28,
+      "terms": [
+        {
+          "confidence": 0.888086,
+          "start": 246.06,
+          "end": 246.45,
+          "text": "一番",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.843515,
+          "start": 246.45,
+          "end": 246.72,
+          "text": "しまい",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999178,
+          "start": 246.72,
+          "end": 247.08,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998724,
+          "start": 247.38,
+          "end": 247.86,
+          "text": "太い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.708695,
+          "start": 247.89,
+          "end": 248.22,
+          "text": "ウナギ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 248.22,
+          "end": 248.31,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.354693,
+          "start": 248.31,
+          "end": 248.580146,
+          "text": "つかみ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.896381,
+          "start": 248.580146,
+          "end": 248.7,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.871243,
+          "start": 248.7,
+          "end": 249.0,
+          "text": "かかり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 249.0,
+          "end": 249.18,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 249.18,
+          "end": 249.27,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 249.27,
+          "end": 249.51,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.570208,
+          "start": 250.11,
+          "end": 250.77,
+          "text": "何しろ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.554754,
+          "start": 251.04,
+          "end": 251.52,
+          "text": "ぬるぬる",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 251.52,
+          "end": 251.73,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.896335,
+          "start": 251.76,
+          "end": 252.12,
+          "text": "滑り",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.768109,
+          "start": 252.12,
+          "end": 252.205049,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 252.205049,
+          "end": 252.48,
+          "text": "抜ける",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 252.48,
+          "end": 252.6,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999991,
+          "start": 252.6,
+          "end": 252.87,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998952,
+          "start": 253.14,
+          "end": 253.29,
+          "text": "手",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 253.29,
+          "end": 253.38,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 253.38,
+          "end": 253.5,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.982921,
+          "start": 253.5,
+          "end": 253.83,
+          "text": "つかめ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 253.83,
+          "end": 254.1,
+          "text": "ませ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 254.1,
+          "end": 254.28,
+          "text": "ん",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 255.15,
+      "end": 261.54,
+      "terms": [
+        {
+          "confidence": 0.824285,
+          "start": 255.15,
+          "end": 255.36,
+          "text": "後",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.99077,
+          "start": 255.39249,
+          "end": 255.78,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.797564,
+          "start": 255.84,
+          "end": 256.35,
+          "text": "じれったく",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 256.35,
+          "end": 256.53,
+          "text": "なっ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 256.56,
+          "end": 256.86,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 257.19,
+          "end": 257.61,
+          "text": "頭",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997901,
+          "start": 257.61,
+          "end": 257.7,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.870951,
+          "start": 257.7,
+          "end": 257.94,
+          "text": "びく",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 257.94,
+          "end": 258.0,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999504,
+          "start": 258.0,
+          "end": 258.21,
+          "text": "中",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 258.21,
+          "end": 258.3,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.873348,
+          "start": 258.3,
+          "end": 258.66,
+          "text": "突っ込ん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 258.66,
+          "end": 258.93,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.350868,
+          "start": 259.41,
+          "end": 259.74,
+          "text": "鰻",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 259.74,
+          "end": 259.92,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998359,
+          "start": 259.92,
+          "end": 260.25,
+          "text": "頭",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.993032,
+          "start": 260.25,
+          "end": 260.37,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 260.37,
+          "end": 260.61,
+          "text": "口",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 260.61,
+          "end": 260.82,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.422039,
+          "start": 260.85,
+          "end": 261.15,
+          "text": "咥え",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 261.15,
+          "end": 261.36,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 261.36,
+          "end": 261.54,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 262.41,
+      "end": 265.8,
+      "terms": [
+        {
+          "confidence": 0.462003,
+          "start": 262.41,
+          "end": 262.74,
+          "text": "うなぎ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 262.74,
+          "end": 262.98,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.517136,
+          "start": 263.1,
+          "end": 263.49,
+          "text": "キュッ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 263.49,
+          "end": 263.61,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.703979,
+          "start": 263.61,
+          "end": 263.76,
+          "text": "言っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 263.79,
+          "end": 264.12,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.275858,
+          "start": 264.3,
+          "end": 264.569385,
+          "text": "権",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999423,
+          "start": 264.569385,
+          "end": 264.66,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.878525,
+          "start": 264.66,
+          "end": 264.9,
+          "text": "首",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.714629,
+          "start": 264.9,
+          "end": 264.99,
+          "text": "へ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.462167,
+          "start": 264.99,
+          "end": 265.2,
+          "text": "巻",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.465056,
+          "start": 265.2,
+          "end": 265.35,
+          "text": "つき",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 265.35,
+          "end": 265.56,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 265.56,
+          "end": 265.8,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 266.49,
+      "end": 268.83,
+      "terms": [
+        {
+          "confidence": 1.0,
+          "start": 266.49,
+          "end": 266.88,
+          "text": "その",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.802369,
+          "start": 266.88,
+          "end": 267.179941,
+          "text": "途端",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 267.179941,
+          "end": 267.36,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.802151,
+          "start": 267.39,
+          "end": 267.78,
+          "text": "表情",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 267.809971,
+          "end": 268.11,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.951542,
+          "start": 268.14,
+          "end": 268.5,
+          "text": "向こう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 268.5,
+          "end": 268.83,
+          "text": "から",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 270.0,
+      "end": 273.12,
+      "terms": [
+        {
+          "confidence": 0.993058,
+          "start": 270.0,
+          "end": 270.42,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.856093,
+          "start": 270.78,
+          "end": 271.11,
+          "text": "ネスト",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.220065,
+          "start": 271.11,
+          "end": 271.319971,
+          "text": "岸",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.249616,
+          "start": 271.416211,
+          "end": 271.68,
+          "text": "女",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.896038,
+          "start": 271.92,
+          "end": 272.19,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.920254,
+          "start": 272.22,
+          "end": 272.461377,
+          "text": "どんな",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.723039,
+          "start": 272.461377,
+          "end": 272.520176,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.415204,
+          "start": 272.55,
+          "end": 272.7,
+          "text": "建て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 272.7,
+          "end": 272.91,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 272.91,
+          "end": 273.12,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 274.14,
+      "end": 276.06,
+      "terms": [
+        {
+          "confidence": 0.393908,
+          "start": 274.14,
+          "end": 274.35,
+          "text": "後",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.97471,
+          "start": 274.381143,
+          "end": 274.62,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.997865,
+          "start": 274.65,
+          "end": 275.04,
+          "text": "びっくり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 275.04,
+          "end": 275.13,
+          "text": "し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 275.13,
+          "end": 275.22,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999523,
+          "start": 275.22,
+          "end": 275.64,
+          "text": "飛び上がり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 275.64,
+          "end": 275.82,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 275.82,
+          "end": 276.06,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 277.05,
+      "end": 283.05,
+      "terms": [
+        {
+          "confidence": 0.525126,
+          "start": 277.05,
+          "end": 277.41,
+          "text": "うなぎ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999482,
+          "start": 277.41,
+          "end": 277.56,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992007,
+          "start": 277.59,
+          "end": 277.98,
+          "text": "振り捨て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 277.98,
+          "end": 278.31,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 278.34,
+          "end": 278.7,
+          "text": "逃げよう",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 278.73,
+          "end": 278.79,
+          "text": "と",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 278.79,
+          "end": 278.91,
+          "text": "し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 278.91,
+          "end": 279.12,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 279.12,
+          "end": 279.18,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 279.18,
+          "end": 279.45,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.407196,
+          "start": 279.96,
+          "end": 280.29,
+          "text": "うなぎ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998563,
+          "start": 280.29,
+          "end": 280.59,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.353709,
+          "start": 280.8,
+          "end": 281.069766,
+          "text": "ゴン",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 281.069766,
+          "end": 281.16,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999939,
+          "start": 281.16,
+          "end": 281.37,
+          "text": "首",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 281.37,
+          "end": 281.46,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.522365,
+          "start": 281.49,
+          "end": 281.85,
+          "text": "巻き付い",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999927,
+          "start": 281.85,
+          "end": 281.91,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998772,
+          "start": 281.91,
+          "end": 282.24,
+          "text": "まま",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.623902,
+          "start": 282.24,
+          "end": 282.57,
+          "text": "離れ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 282.57,
+          "end": 282.84,
+          "text": "ませ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 282.84,
+          "end": 283.05,
+          "text": "ん",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 283.92,
+      "end": 288.63,
+      "terms": [
+        {
+          "confidence": 0.330576,
+          "start": 283.92,
+          "end": 284.187803,
+          "text": "ゴン",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 284.187803,
+          "end": 284.49,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 284.64,
+          "end": 284.94,
+          "text": "その",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.978269,
+          "start": 284.94,
+          "end": 285.24,
+          "text": "まま",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.413643,
+          "start": 285.27,
+          "end": 285.78,
+          "text": "横跳び",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.989429,
+          "start": 285.78,
+          "end": 285.87,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 285.87,
+          "end": 286.23,
+          "text": "飛び出し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 286.23,
+          "end": 286.53,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 286.83,
+          "end": 287.22,
+          "text": "一生",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 287.22,
+          "end": 287.55,
+          "text": "懸命",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 287.55,
+          "end": 287.73,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.725283,
+          "start": 287.76,
+          "end": 287.94,
+          "text": "逃げ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 287.97,
+          "end": 288.060703,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.694279,
+          "start": 288.060703,
+          "end": 288.18,
+          "text": "いき",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 288.18,
+          "end": 288.39,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 288.39,
+          "end": 288.63,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 289.8,
+      "end": 296.07,
+      "terms": [
+        {
+          "confidence": 0.901214,
+          "start": 289.8,
+          "end": 290.25,
+          "text": "洞穴",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 290.25,
+          "end": 290.429238,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.90649,
+          "start": 290.43,
+          "end": 290.73,
+          "text": "近く",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999821,
+          "start": 290.73,
+          "end": 291.03,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.926451,
+          "start": 291.27,
+          "end": 291.63,
+          "text": "伴侶",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.504836,
+          "start": 291.63,
+          "end": 291.719824,
+          "text": "木",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.961245,
+          "start": 291.719824,
+          "end": 291.81,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.946742,
+          "start": 291.810381,
+          "end": 291.99,
+          "text": "下",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 291.99,
+          "end": 292.14,
+          "text": "で",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 292.14,
+          "end": 292.59,
+          "text": "振り返っ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 292.59,
+          "end": 292.68,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.964318,
+          "start": 292.68,
+          "end": 292.8,
+          "text": "み",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 292.8,
+          "end": 293.01,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 293.01,
+          "end": 293.1,
+          "text": "た",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 293.1,
+          "end": 293.34,
+          "text": "が",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.938253,
+          "start": 293.79,
+          "end": 294.24,
+          "text": "教授",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.933168,
+          "start": 294.24,
+          "end": 294.51,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.58892,
+          "start": 294.54,
+          "end": 294.72,
+          "text": "お",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.89301,
+          "start": 294.72,
+          "end": 294.96,
+          "text": "かけ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 294.96,
+          "end": 295.05,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 295.05,
+          "end": 295.228799,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.702333,
+          "start": 295.23,
+          "end": 295.35,
+          "text": "き",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 295.35,
+          "end": 295.59,
+          "text": "ませ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 295.59,
+          "end": 295.62,
+          "text": "ん",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 295.62,
+          "end": 295.83,
+          "text": "でし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 295.83,
+          "end": 296.07,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 297.24,
+      "end": 305.13,
+      "terms": [
+        {
+          "confidence": 0.342216,
+          "start": 297.24,
+          "end": 297.508652,
+          "text": "ゴン",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999115,
+          "start": 297.508652,
+          "end": 297.84,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.509976,
+          "start": 297.93,
+          "end": 298.29,
+          "text": "ほっと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 298.29,
+          "end": 298.41,
+          "text": "し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 298.41,
+          "end": 298.74,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.470483,
+          "start": 299.01,
+          "end": 299.31,
+          "text": "ウナギ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 299.31,
+          "end": 299.4,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998308,
+          "start": 299.4,
+          "end": 299.64,
+          "text": "頭",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.998839,
+          "start": 299.64,
+          "end": 299.729971,
+          "text": "を",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.640886,
+          "start": 299.730029,
+          "end": 300.48,
+          "text": "噛み砕き",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.992902,
+          "start": 300.84,
+          "end": 301.278281,
+          "text": "やっと",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.965261,
+          "start": 301.284199,
+          "end": 301.62,
+          "text": "外し",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 301.62,
+          "end": 301.92,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.996956,
+          "start": 302.13,
+          "end": 302.43,
+          "text": "穴",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 302.43,
+          "end": 302.55,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 302.55,
+          "end": 302.79,
+          "text": "外",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 302.79,
+          "end": 303.06,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999947,
+          "start": 303.27,
+          "end": 303.51,
+          "text": "草",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.999948,
+          "start": 303.51,
+          "end": 303.63,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.984873,
+          "start": 303.63,
+          "end": 303.75,
+          "text": "葉",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 303.75,
+          "end": 303.84,
+          "text": "の",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 303.84,
+          "end": 303.99,
+          "text": "上",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 303.99,
+          "end": 304.08,
+          "text": "に",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.65353,
+          "start": 304.08,
+          "end": 304.32,
+          "text": "載せ",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 304.35,
+          "end": 304.47,
+          "text": "て",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994111,
+          "start": 304.47,
+          "end": 304.65,
+          "text": "おき",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 304.65,
+          "end": 304.86,
+          "text": "まし",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 304.86,
+          "end": 305.13,
+          "text": "た",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "start": 306.690381,
+      "end": 310.8,
+      "terms": [
+        {
+          "confidence": 0.37929,
+          "start": 306.690381,
+          "end": 307.23,
+          "text": "生",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.94141,
+          "start": 307.26,
+          "end": 307.86,
+          "text": "終わり",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.994216,
+          "start": 308.58,
+          "end": 308.85,
+          "text": "この",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 308.85,
+          "end": 309.18,
+          "text": "録音",
+          "type": "WORD"
+        },
+        {
+          "confidence": 1.0,
+          "start": 309.18,
+          "end": 309.48,
+          "text": "は",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.800516,
+          "start": 309.6,
+          "end": 310.05,
+          "text": "パブリック",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.800516,
+          "start": 310.05,
+          "end": 310.41,
+          "text": "ドメイン",
+          "type": "WORD"
+        },
+        {
+          "confidence": 0.976805,
+          "start": 310.41,
+          "end": 310.8,
+          "text": "です",
+          "type": "WORD"
+        }
+      ]
+    }
+  ]
+}

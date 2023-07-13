@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Noto Serif JP';
+  src: local('Noto Serif JP'), url('/NotoSerifJP-Regular.woff2') format('woff2')
+}
+
+body {
+  font-family: 'Noto Serif JP', 'serif';
+  font-size: 20px;
+  text-rendering: optimizeLegibility;
+  line-height: 1.5;
+  margin: auto;
+  width: 840px;
+}
+
+@media (max-width: 840px) {
+  body {
+    width: calc(100% - 0.7em);
+    margin: 0.3em;
+  }
+}

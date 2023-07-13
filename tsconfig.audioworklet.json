@@ -1,0 +1,8 @@
+{
+  "include": ["src/vosk/recognizer-processor.*"],
+  "compilerOptions": {
+    "composite": true,
+    "lib": ["ESNext"],
+    "types": ["@types/audioworklet"]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "test:unit",
+      "problemMatcher": ["$vite"],
+      "label": "npm: test:unit",
+      "detail": "vitest",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      }
+    },
+    {
+      "type": "npm",
+      "script": "dev",
+      "problemMatcher": ["$vite"],
+      "label": "npm: dev",
+      "detail": "vite",
+      "isBackground": true
+    }
+  ]
+}

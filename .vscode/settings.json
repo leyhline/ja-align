@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.formatOnSave": false
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.indentSize": 2,
+  "editor.tabSize": 2
+}
