@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
-    "@tsconfig/node18": "^2.0.1",
+    "@tsconfig/node18": "^18.2.0",
     "@types/audioworklet": "^0.0.48",
     "@types/jsdom": "^21.1.1",
     "@types/node": "^18.16.17",
