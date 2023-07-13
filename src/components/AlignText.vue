@@ -10,7 +10,8 @@ const audioElem = ref<HTMLAudioElement | null>(null)
 const dataAvailable = computed(() => Boolean(props.text && paragraphGroups.length > 0))
 
 function align(recognitionResults: VoskOutput, text: string): void {
-  MecabWorker.create('unidic-mecab-2.1.2_bin.zip', {
+  const modelUrl = new URL('/unidic-mecab-2.1.2_bin.zip', import.meta.url)
+  MecabWorker.create(modelUrl.href, {
     wrapper: createUnidicFeature26
   })
     .then((mecabWorker) => {

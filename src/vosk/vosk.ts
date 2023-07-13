@@ -11,8 +11,9 @@ export async function recognize(
   progressCallback?: (resultText: string, resultIndex: number) => void
 ): Promise<Result[]> {
   const audioContext = new AudioContext({ sampleRate: SAMPLE_RATE, latencyHint: 'playback' })
+  const modelUrl = new URL('/vosk-model-small-ja-0.22.tar.gz', import.meta.url)
   const [model, audio] = await Promise.all([
-    createModel('vosk-model-small-ja-0.22.tar.gz'),
+    createModel(modelUrl.href),
     audioContext.decodeAudioData(buffer)
   ])
   const channel = new MessageChannel()
