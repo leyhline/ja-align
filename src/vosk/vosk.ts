@@ -1,6 +1,6 @@
 import { createModel } from 'vosk-browser'
 import type { ServerMessagePartialResult, ServerMessageResult } from 'vosk-browser/dist/interfaces'
-import recognizerWorkletUrl from './recognizer-processor.ts?url'
+import recognizerWorkletUrl from './recognizer-processor?worker&url'
 
 const SAMPLE_RATE = 16000
 
