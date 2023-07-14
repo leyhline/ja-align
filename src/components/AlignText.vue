@@ -2,11 +2,13 @@
 import AlignTextOutput from '@/components/AlignTextOutput.vue'
 import { alignWordsToTextClosure, findParagraphIntervals, type VoskOutput } from '@/align/align'
 import { MecabWorker, createUnidicFeature26 } from 'mecab-web-worker'
-import { watch, reactive, ref, computed } from 'vue'
+import { reactive, ref, computed } from 'vue'
 
 const props = defineProps<{ recognitionResults?: VoskOutput; text?: string; audio?: ArrayBuffer }>()
 const paragraphGroups: [number, number, number, number][][] = reactive([])
 const audioElem = ref<HTMLAudioElement | null>(null)
+const progressValue = ref<0 | 1 | undefined>(0)
+const alignPossible = computed(() => Boolean(props.recognitionResults && props.text && props.audio))
 const dataAvailable = computed(() => Boolean(props.text && paragraphGroups.length > 0))
 
 function align(recognitionResults: VoskOutput, text: string): void {
@@ -41,6 +43,7 @@ function align(recognitionResults: VoskOutput, text: string): void {
           }
         }
       }
+      progressValue.value = 1
     })
 }
 
@@ -77,19 +80,24 @@ function exportAsVtt() {
   a.click()
 }
 
-watch(props, ({ recognitionResults, text, audio }) => {
-  if (!recognitionResults || !text || !audio) return
-  align(recognitionResults, text)
-  addAudioTrack(audio)
-})
+function triggerAlign() {
+  if (!props.recognitionResults || !props.text || !props.audio) return
+  progressValue.value = undefined
+  align(props.recognitionResults, props.text)
+  addAudioTrack(props.audio)
+}
 </script>
 
 <template>
   <div class="container">
     <div class="controls">
-      <audio ref="audioElem" controls preload="auto"></audio>
+      <button class="primary" type="button" @click="triggerAlign" :disabled="!alignPossible">
+        Align Text to Audio
+      </button>
+      <progress :value="progressValue" />
       <button type="button" @click="exportAsVtt" :disabled="!dataAvailable">Export VTT</button>
     </div>
+    <audio ref="audioElem" controls preload="auto"></audio>
     <AlignTextOutput :text="text ?? ''" :paragraphGroups="paragraphGroups" :playAudio="playAudio" />
   </div>
 </template>
@@ -105,16 +113,16 @@ watch(props, ({ recognitionResults, text, audio }) => {
   flex-direction: row;
   align-items: stretch;
   justify-content: space-between;
-  gap: 1em;
   width: 100%;
   flex-wrap: wrap;
+  margin-bottom: 1em;
 }
 
 .controls > button {
   min-height: 2em;
 }
 
-.controls > audio {
-  flex-grow: 1;
+.primary {
+  border-color: blue;
 }
 </style>

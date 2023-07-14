@@ -29,7 +29,7 @@ function recognizeAudio() {
 <template>
   <div class="container">
     <div class="loading-button">
-      <button type="button" :disabled="buttonDisabled" @click="recognizeAudio">
+      <button class="primary" type="button" :disabled="buttonDisabled" @click="recognizeAudio">
         Recognize Audio
       </button>
       <progress :value="progressValue" />
@@ -75,5 +75,9 @@ function recognizeAudio() {
 input {
   font-family: 'Noto Serif JP', 'serif';
   min-width: 8em;
+}
+
+.primary {
+  border-color: blue;
 }
 </style>

@@ -1,13 +1,8 @@
+import type { ClientMessageAudioChunk } from 'vosk-browser/dist/interfaces'
+
 interface InitMessage {
   action: 'init'
   recognizerId: string
-}
-
-interface AudioChunkMessage {
-  action: 'audioChunk'
-  data: Float32Array
-  recognizerId: string
-  sampleRate: number
 }
 
 /**
@@ -46,7 +41,7 @@ class RecognizerAudioProcessor extends AudioWorkletProcessor {
       // AudioBuffer samples are represented as floating point numbers between -1.0 and 1.0 whilst
       // Kaldi expects them to be between -32768 and 32767 (the range of a signed int16)
       const audioArray = data.map((value) => value * 0x8000)
-      const message: AudioChunkMessage = {
+      const message: ClientMessageAudioChunk = {
         action: 'audioChunk',
         data: audioArray,
         recognizerId: this._recognizerId,
