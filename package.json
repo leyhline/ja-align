@@ -11,7 +11,8 @@
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit -p tsconfig.vitest.json --composite false",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
-    "format": "prettier --write src/"
+    "format": "prettier --write src/",
+    "generate-pwa-assets": "pwa-assets-generator --preset minimal public/logo.svg"
   },
   "dependencies": {
     "mecab-web-worker": "^0.3.0",
@@ -24,6 +25,7 @@
     "@types/audioworklet": "^0.0.48",
     "@types/jsdom": "^21.1.1",
     "@types/node": "^18.16.17",
+    "@vite-pwa/assets-generator": "^0.0.3",
     "@vitejs/plugin-vue": "^4.2.3",
     "@vue/eslint-config-prettier": "^7.1.0",
     "@vue/eslint-config-typescript": "^11.0.3",
@@ -36,6 +38,7 @@
     "prettier": "^2.8.8",
     "typescript": "~5.0.4",
     "vite": "^4.3.9",
+    "vite-plugin-pwa": "^0.16.4",
     "vitest": "^0.32.0",
     "vue-tsc": "^1.6.5"
   }
