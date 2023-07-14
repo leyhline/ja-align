@@ -7,10 +7,31 @@ const props = defineProps<{
   playAudio: (start: number, end: number) => void
 }>()
 
-const minSilenceDuration = ref<number>(0.5)
+const minSilenceDuration = ref<number>(0)
 const visualizeIntervals = ref<boolean>(false)
 
-const displayGroups = computed(() => props.paragraphGroups)
+const displayGroups = computed<[number, number, number, number][][]>(() => {
+  if (minSilenceDuration.value <= 0) {
+    return props.paragraphGroups
+  } else {
+    return props.paragraphGroups.map((paragraphIntervals) =>
+      paragraphIntervals.reduce<[number, number, number, number][]>((acc, currentInterval) => {
+        const lastInterval = acc[acc.length - 1]
+        if (!lastInterval) {
+          return [currentInterval]
+        } else {
+          const [_x, y, start, end] = currentInterval
+          const [lastX, _lastY, lastStart, lastEnd] = lastInterval
+          if (start - lastEnd > minSilenceDuration.value) {
+            return [...acc, currentInterval]
+          } else {
+            return [...acc.slice(0, acc.length - 1), [lastX, y, lastStart, end]]
+          }
+        }
+      }, [])
+    )
+  }
+})
 </script>
 
 <template>
@@ -18,14 +39,7 @@ const displayGroups = computed(() => props.paragraphGroups)
     <div class="controls">
       <div>
         <label for="silence">Silence: </label>
-        <input
-          id="silence"
-          type="range"
-          v-model="minSilenceDuration"
-          min="0.1"
-          max="2"
-          step="0.1"
-        />
+        <input id="silence" type="range" v-model="minSilenceDuration" min="0" max="2" step="0.01" />
         <span>{{ minSilenceDuration }} seconds</span>
       </div>
       <div>

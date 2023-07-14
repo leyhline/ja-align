@@ -5,14 +5,10 @@ const props = defineProps<{ text?: string }>()
 const emit = defineEmits<{ change: [text: string] }>()
 const outputElem = ref<HTMLTextAreaElement | null>(null)
 
-watch(
-  () => props.text,
-  (text) => {
-    emit('change', text || '')
-    if (!outputElem.value) return
-    outputElem.value.scrollTo({ top: outputElem.value.scrollHeight, behavior: 'smooth' })
-  }
-)
+watch(props, ({ text }) => {
+  emit('change', text || '')
+  if (!outputElem.value) return
+})
 
 function onChange(event: Event): void {
   const target = event.target as HTMLTextAreaElement

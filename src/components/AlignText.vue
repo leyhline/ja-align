@@ -8,8 +8,10 @@ const props = defineProps<{ recognitionResults?: VoskOutput; text?: string; audi
 const paragraphGroups: [number, number, number, number][][] = reactive([])
 const audioElem = ref<HTMLAudioElement | null>(null)
 const progressValue = ref<0 | 1 | undefined>(0)
-const alignPossible = computed(() => Boolean(props.recognitionResults && props.text && props.audio))
-const dataAvailable = computed(() => Boolean(props.text && paragraphGroups.length > 0))
+const alignPossible = computed<boolean>(() =>
+  Boolean(props.recognitionResults && props.text && props.audio)
+)
+const dataAvailable = computed<boolean>(() => Boolean(props.text && paragraphGroups.length > 0))
 
 function align(recognitionResults: VoskOutput, text: string): void {
   const modelUrl = new URL('/unidic-mecab-2.1.2_bin.zip', import.meta.url)
@@ -78,6 +80,7 @@ function exportAsVtt() {
   a.href = url
   a.download = 'subtitle.vtt'
   a.click()
+  URL.revokeObjectURL(url)
 }
 
 function triggerAlign() {
