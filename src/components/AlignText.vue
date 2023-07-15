@@ -11,7 +11,6 @@ const progressValue = ref<0 | 1 | undefined>(0)
 const alignPossible = computed<boolean>(() =>
   Boolean(props.recognitionResults && props.text && props.audio)
 )
-const dataAvailable = computed<boolean>(() => Boolean(props.text && paragraphGroups.length > 0))
 
 function align(recognitionResults: VoskOutput, text: string): void {
   const modelUrl = new URL('/unidic-mecab-2.1.2_bin.zip', import.meta.url)
@@ -65,24 +64,6 @@ function playAudio(start: number, end: number) {
   }, (end - start) * 1000)
 }
 
-function exportAsVtt() {
-  const vtt = 'WEBVTT\n\n'
-  const cues = paragraphGroups
-    .flatMap((paragraphIntervals) => paragraphIntervals)
-    .map(([x, y, start, end]) => {
-      const text = props.text?.slice(x, y)
-      return `00:${start.toFixed(3)} --> 00:${end.toFixed(3)}\n${text}`
-    })
-    .join('\n\n')
-  const blob = new Blob([vtt + cues], { type: 'text/vtt' })
-  const url = URL.createObjectURL(blob)
-  const a = document.createElement('a')
-  a.href = url
-  a.download = 'subtitle.vtt'
-  a.click()
-  URL.revokeObjectURL(url)
-}
-
 function triggerAlign() {
   if (!props.recognitionResults || !props.text || !props.audio) return
   progressValue.value = undefined
@@ -98,7 +79,6 @@ function triggerAlign() {
         Align Text to Audio
       </button>
       <progress :value="progressValue" />
-      <button type="button" @click="exportAsVtt" :disabled="!dataAvailable">Export VTT</button>
     </div>
     <audio ref="audioElem" controls preload="auto"></audio>
     <AlignTextOutput :text="text ?? ''" :paragraphGroups="paragraphGroups" :playAudio="playAudio" />
@@ -127,5 +107,9 @@ function triggerAlign() {
 
 .primary {
   border-color: blue;
+}
+
+audio {
+  width: 100%;
 }
 </style>

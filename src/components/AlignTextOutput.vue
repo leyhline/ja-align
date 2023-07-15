@@ -7,6 +7,10 @@ const props = defineProps<{
   playAudio: (start: number, end: number) => void
 }>()
 
+const dataAvailable = computed<boolean>(() =>
+  Boolean(props.text && props.paragraphGroups.length > 0)
+)
+
 const minSilenceDuration = ref<number>(0)
 const visualizeIntervals = ref<boolean>(false)
 
@@ -32,6 +36,24 @@ const displayGroups = computed<[number, number, number, number][][]>(() => {
     )
   }
 })
+
+function exportAsVtt() {
+  const vtt = 'WEBVTT\n\n'
+  const cues = displayGroups.value
+    .flatMap((paragraphIntervals) => paragraphIntervals)
+    .map(([x, y, start, end]) => {
+      const text = props.text?.slice(x, y)
+      return `00:${start.toFixed(3)} --> 00:${end.toFixed(3)}\n${text}`
+    })
+    .join('\n\n')
+  const blob = new Blob([vtt + cues], { type: 'text/vtt' })
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement('a')
+  a.href = url
+  a.download = 'subtitle.vtt'
+  a.click()
+  URL.revokeObjectURL(url)
+}
 </script>
 
 <template>
@@ -46,6 +68,7 @@ const displayGroups = computed<[number, number, number, number][][]>(() => {
         <input id="visualize" type="checkbox" v-model="visualizeIntervals" />
         <label for="visualize">Visualize Invervals</label>
       </div>
+      <button type="button" @click="exportAsVtt" :disabled="!dataAvailable">Export VTT</button>
     </div>
     <p v-for="(paragraphIntervals, i) in displayGroups" :key="i">
       <span
