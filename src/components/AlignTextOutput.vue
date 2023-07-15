@@ -40,11 +40,14 @@ const displayGroups = computed<[number, number, number, number][][]>(() => {
 function exportAsVtt() {
   const vtt = 'WEBVTT\n\n'
   const cues = displayGroups.value
-    .flatMap((paragraphIntervals) => paragraphIntervals)
-    .map(([x, y, start, end]) => {
-      const text = props.text?.slice(x, y)
-      return `00:${start.toFixed(3)} --> 00:${end.toFixed(3)}\n${text}`
-    })
+    .map((paragraphIntervals) =>
+      paragraphIntervals.map(([x, y, start, end], i) => {
+        let text = props.text.slice(x, y)
+        if (i > 0) text = '_' + text
+        return `00:${start.toFixed(3)} --> 00:${end.toFixed(3)}\n${text}`
+      })
+    )
+    .flat()
     .join('\n\n')
   const blob = new Blob([vtt + cues], { type: 'text/vtt' })
   const url = URL.createObjectURL(blob)

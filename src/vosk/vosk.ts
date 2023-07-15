@@ -10,11 +10,6 @@ const SAMPLE_RATE = 16000
 
 export type Result = ServerMessageResult['result']
 
-async function decodeAudio(buffer: ArrayBuffer): Promise<AudioBuffer> {
-  const audioContext = new AudioContext({ sampleRate: SAMPLE_RATE })
-  return audioContext.decodeAudioData(buffer)
-}
-
 async function initRecognizer(
   results: Result[],
   progressCallback: (resultText: string, resultIndex: number) => void,
@@ -44,42 +39,41 @@ async function initRecognizer(
   return [recognizer.id, channel.port2]
 }
 
-async function startRendering(
+async function startProcessing(
+  audioContext: AudioContext,
   audio: AudioBuffer,
   recognizerId: string,
   port2: MessagePort
 ): Promise<void> {
-  const offlineAudioContext = new OfflineAudioContext(1, audio.length, audio.sampleRate)
-  await offlineAudioContext.audioWorklet.addModule(recognizerWorkletUrl)
-  const recognizerProcessor = new AudioWorkletNode(offlineAudioContext, 'recognizer-processor', {
+  await audioContext.audioWorklet.addModule(recognizerWorkletUrl)
+  const recognizerProcessor = new AudioWorkletNode(audioContext, 'recognizer-processor', {
     outputChannelCount: [1],
     numberOfInputs: 1,
     numberOfOutputs: 1
   })
   recognizerProcessor.port.postMessage({ action: 'init', recognizerId }, [port2])
-  const source = offlineAudioContext.createBufferSource()
+  const source = audioContext.createBufferSource()
   source.buffer = audio
   source.connect(recognizerProcessor)
-  source.start()
-  return offlineAudioContext.startRendering().then()
+  source.connect(audioContext.destination)
+  return new Promise((resolve) => {
+    source.onended = () => resolve()
+    source.start()
+  })
 }
 
-/**
- * Starts the recognition process and returns directly while the results array
- * is filled asynchronously. There is currently no way to detect when the
- * process is finished.
- */
 export async function recognize(
   buffer: ArrayBuffer,
   progressCallback: (resultText: string, resultIndex: number) => void
 ): Promise<Result[]> {
-  const audio = await decodeAudio(buffer)
+  const audioContext = new AudioContext({ sampleRate: SAMPLE_RATE })
+  const audio = await audioContext.decodeAudioData(buffer)
   console.assert(audio.numberOfChannels === 1)
   console.assert(audio.sampleRate === SAMPLE_RATE)
   return new Promise((resolve, reject) => {
     const results: Result[] = []
     return initRecognizer(results, progressCallback, reject).then(([recognizerId, port2]) =>
-      startRendering(audio, recognizerId, port2).then(() => resolve(results))
+      startProcessing(audioContext, audio, recognizerId, port2).then(() => resolve(results))
     )
   })
 }
