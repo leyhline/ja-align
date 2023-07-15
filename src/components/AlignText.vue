@@ -15,7 +15,8 @@ const alignPossible = computed<boolean>(() =>
 function align(recognitionResults: VoskOutput, text: string): void {
   const modelUrl = new URL('/unidic-mecab-2.1.2_bin.zip', import.meta.url)
   MecabWorker.create(modelUrl.href, {
-    wrapper: createUnidicFeature26
+    wrapper: createUnidicFeature26,
+    noCache: true
   })
     .then((mecabWorker) => {
       const alignWordsToText = alignWordsToTextClosure(mecabWorker)
