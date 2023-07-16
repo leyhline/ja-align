@@ -4,13 +4,12 @@ import { alignKana } from './needleman-wunsch'
 import type { Result } from '@/vosk/vosk'
 
 export type VoskOutput = Result[]
-
 export type Interval = [number, number]
-
 export type MaybeInterval = Interval | null
-
 type Aligner<S1, S2> = (data1: S1, data2: S2) => MaybeInterval[]
 type AsyncAligner<S1, S2> = (data1: S1, data2: S2) => Promise<MaybeInterval[]>
+
+const PARENS = ['「', '《']
 
 export function buildAligner<S1, S2, T1, T2>(
   transform1: (data1: S1) => T1,
@@ -64,7 +63,7 @@ function alignBySurface(surfaceKanaTuples: [string, string][], text: string): Ma
   let end = firstTuple[0].length
   let lastSurface: string = firstTuple[0]
   for (const [surface, kana] of surfaceKanaTuples) {
-    if (kana && lastSurface !== '「') {
+    if (kana && !PARENS.includes(lastSurface)) {
       intervals.push([start, end])
       if (nullArray.length > 0) {
         intervals.push(...nullArray)
@@ -72,7 +71,7 @@ function alignBySurface(surfaceKanaTuples: [string, string][], text: string): Ma
       }
       start = text.indexOf(surface, end)
       end = start + surface.length
-    } else if (surface === '「') {
+    } else if (PARENS.includes(surface)) {
       intervals.push([start, end])
       start = text.indexOf(surface, end)
       end = start + surface.length
