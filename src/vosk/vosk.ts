@@ -68,8 +68,14 @@ export async function recognize(
 ): Promise<Result[]> {
   const audioContext = new AudioContext({ sampleRate: SAMPLE_RATE })
   const audio = await audioContext.decodeAudioData(buffer)
-  console.assert(audio.numberOfChannels === 1)
-  console.assert(audio.sampleRate === SAMPLE_RATE)
+  console.assert(
+    audio.numberOfChannels === 1,
+    `audio.numberOfChannels: ${audio.numberOfChannels} (expected: 1)`
+  )
+  console.assert(
+    audio.sampleRate === SAMPLE_RATE,
+    `audio.sampleRate: ${audio.sampleRate} (expected: ${SAMPLE_RATE})`
+  )
   return new Promise((resolve, reject) => {
     const results: Result[] = []
     return initRecognizer(results, progressCallback, reject).then(([recognizerId, port2]) =>

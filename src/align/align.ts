@@ -258,5 +258,8 @@ function incrementVoskIndexClosure(
 }
 
 function assertEveryLength(arrays: any[][], expectedLength: number) {
-  console.assert(arrays.every((arr) => arr.length === expectedLength))
+  console.assert(
+    arrays.every((arr) => arr.length === expectedLength),
+    `length mismatch of align intervals (expected: ${expectedLength})`
+  )
 }
