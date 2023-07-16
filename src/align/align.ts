@@ -9,8 +9,6 @@ export type MaybeInterval = Interval | null
 type Aligner<S1, S2> = (data1: S1, data2: S2) => MaybeInterval[]
 type AsyncAligner<S1, S2> = (data1: S1, data2: S2) => Promise<MaybeInterval[]>
 
-const PARENS = ['「', '《']
-
 export function buildAligner<S1, S2, T1, T2>(
   transform1: (data1: S1) => T1,
   transform2: (data2: S2) => T2,
@@ -63,7 +61,7 @@ function alignBySurface(surfaceKanaTuples: [string, string][], text: string): Ma
   let end = firstTuple[0].length
   let lastSurface: string = firstTuple[0]
   for (const [surface, kana] of surfaceKanaTuples) {
-    if (kana && !PARENS.includes(lastSurface)) {
+    if (kana && lastSurface !== '「') {
       intervals.push([start, end])
       if (nullArray.length > 0) {
         intervals.push(...nullArray)
@@ -71,7 +69,7 @@ function alignBySurface(surfaceKanaTuples: [string, string][], text: string): Ma
       }
       start = text.indexOf(surface, end)
       end = start + surface.length
-    } else if (PARENS.includes(surface)) {
+    } else if (surface === '「') {
       intervals.push([start, end])
       start = text.indexOf(surface, end)
       end = start + surface.length
