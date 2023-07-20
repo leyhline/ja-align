@@ -42,9 +42,11 @@ function exportAsVtt() {
   const cues = displayGroups.value
     .map((paragraphIntervals) =>
       paragraphIntervals.map(([x, y, start, end], i) => {
+        const startString = createTimeString(start)
+        const endString = createTimeString(end)
         let text = props.text.slice(x, y)
         if (i > 0) text = '_' + text
-        return `00:${start.toFixed(3)} --> 00:${end.toFixed(3)}\n${text}`
+        return `${startString} --> ${endString}\n${text}`
       })
     )
     .flat()
@@ -56,6 +58,18 @@ function exportAsVtt() {
   a.download = 'subtitle.vtt'
   a.click()
   URL.revokeObjectURL(url)
+}
+
+function createTimeString(inputSeconds: number) {
+  const hours = Math.floor(inputSeconds / 3600)
+  const hoursString = hours.toString().padStart(2, '0')
+  const minutes = Math.floor((inputSeconds - hours * 3600) / 60)
+  const minutesString = minutes.toString().padStart(2, '0')
+  const seconds = Math.floor(inputSeconds - hours * 3600 - minutes * 60)
+  const secondsString = seconds.toString().padStart(2, '0')
+  const milliseconds = Math.floor((inputSeconds - Math.floor(inputSeconds)) * 1000)
+  const millisecondsString = milliseconds.toString().padStart(3, '0')
+  return `${hoursString}:${minutesString}:${secondsString}.${millisecondsString}`
 }
 </script>
 
