@@ -15,7 +15,7 @@
     "generate-pwa-assets": "pwa-assets-generator --preset minimal public/logo.svg"
   },
   "dependencies": {
-    "mecab-web-worker": "^0.3.0",
+    "mecab-web-worker": "^0.3.1",
     "vosk-browser": "^0.0.8",
     "vue": "^3.3.4"
   },

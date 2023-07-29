@@ -1,5 +1,4 @@
-import type { MecabNode } from 'mecab-web-worker/dist/mecab-worker'
-import type { UnidicFeature26, MecabWorker } from 'mecab-web-worker'
+import type { UnidicFeature26, MecabWorker, MecabNode } from 'mecab-web-worker'
 import { alignKana } from './needleman-wunsch'
 import type { Result } from '@/vosk/vosk'
 
