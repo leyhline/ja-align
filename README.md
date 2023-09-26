@@ -7,6 +7,6 @@ The result is hosted with GitHub Pages: https://leyhline.github.io/ja-align/
 Here's also a small video for a short introduction, although I wouldn't recommand watching because I had a slight cold when I did the recording (and because of my accent, obviously).
 
 <video controls>
-  <source src="demo.webm" type="video/webm" />
-  <track default kind="captions" srclang="en" label="en" src="demo.vtt" />
+  <source src="https://raw.githubusercontent.com/leyhline/ja-align/main/demo.webm" type="video/webm" />
+  <track default kind="captions" srclang="en" label="en" src="https://raw.githubusercontent.com/leyhline/ja-align/main/demo.vtt" />
 </video>
