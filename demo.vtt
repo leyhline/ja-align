@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00.000 --> 00:08.000
+I would like to introduce the prototype I built for aligning Japanese text and audio.
+
+00:08.000 --> 00:13.000
+This is based on web technologies and runs in the browser.
+
+00:13.000 --> 00:21.000
+First, one needs to load the audio and then the text.
+
+00:21.000 --> 00:28.000
+I prepared a demo and this is Gongitsune, a story by Nankichi Niimi.
+
+00:29.000 --> 00:41.000
+Then I used the popular Vosk library for recognizing the audio and extracting the text.
+
+00:41.000 --> 00:44.000
+This will take some time.
+
+00:58.000 --> 01:13.000
+I skipped a bit of the recognition process because it takes some time.
+
+01:13.000 --> 01:22.000
+All of this runs locally, there is no backend server, so everything needs to be called in JavaScript.
+
+01:23.000 --> 01:30.000
+The left side is the transcription of the audio file.
+
+01:30.000 --> 01:34.000
+The right side is just some simple text.
+
+01:40.000 --> 01:44.000
+Now one can align both sides.
+
+01:44.000 --> 01:48.000
+This uses the Needleman-Wunsch algorithm.
+
+01:48.000 --> 01:54.000
+It's an old algorithm from bioinformatics for sequence alignment.
+
+01:54.000 --> 02:05.000
+When visualizing the intervals, one can see that each word got detected.
+
+02:05.000 --> 02:12.000
+For each word, one has a beginning and an end in the audio file.
+
+02:18.000 --> 02:41.000
+I also included some simple detection of the silence intervals, so it's easy to wrap the parts into sentences.
+
+02:49.000 --> 03:11.000
+There are still some bugs left, but in general it works as expected.
+
+03:11.000 --> 03:23.000
+Now it misses some interactivity for fixing small bugs I introduced or the algorithm introduced.
+
+03:29.000 --> 03:30.000
+Thank you.
